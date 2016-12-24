@@ -25,6 +25,10 @@ define(function(require, exports, module) {
         })
         function load() {
             
+            // uncomment the follow two lines to hide the debug banner
+            // document.getElementsByClassName("basic")[0].style.display = "none"; 
+            // document.getElementsByClassName("vsplitbox")[1].style.top = 0;
+            
             textarea = document.getElementsByClassName("ace_text-input")[1];
             createAndStyleDiv();
             
