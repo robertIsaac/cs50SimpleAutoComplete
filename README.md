@@ -8,7 +8,7 @@ its autocomplete for cs50 c programming
   will be https://ide.cs50.io/user_name/ide50?debug=2#openfile-x
   or just https://ide.cs50.io/user_name/ide50?debug=2
 
-  same goes for https://ide.c9.io/robert_isaac/ide50 will be https://ide.c9.io/robert_isaac/ide50?debug=2
+  same goes for https://ide.c9.io/user_name/ide50 will be https://ide.c9.io/user_name/ide50?debug=2
 
 2. from file select new plugin -> empty plugin
 
