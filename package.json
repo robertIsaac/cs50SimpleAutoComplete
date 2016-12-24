@@ -1,0 +1,27 @@
+{
+  "name": "cs50SimpleAutoComplete",
+  "description": "its autocomplete for cs50 c programming",
+  "version": "0.0.1",
+  "author": "Robert Isaac",
+  "contributors": [
+    {
+      "name": "robert isaac",
+      "email": "robert.isaac@live.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robertIsaac/cs50SimpleAutoComplete"
+  },
+  "plugins": {
+    "cs50SimpleAutoComplete": {
+      "packagePath": "plugins/cs50SimpleAutoComplete/cs50SimpleAutoComplete"
+    }
+  },
+  "categories": [
+    "cs50",
+    "autocomplete"
+  ],
+  "licenses": [],
+  "permissions": "world"
+}
