@@ -12,9 +12,9 @@ its autocomplete for cs50 c programming
 
 2. from file select new plugin -> empty plugin
 
-3. there will be two new folders under plugins _ and plugin.simple
-  delete _ and rename plugin.simple to cs50SimpleAutoComplete
-
-4. copy cs50SimpleAutoComplete.js and package.json to the folder and you are good to go (you can delete the other files)
+3. execute these commands then
+  cd ~/.c9/plugins
+  rm * -r
+  git clone https://github.com/robertIsaac/cs50SimpleAutoComplete
 
 note : there will a banner telling you that you are in debug note you can uncomment the lines 29-30 in cs50SimpleAutoComplete.js to hide this banner once the plugin started
